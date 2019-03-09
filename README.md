@@ -12,4 +12,4 @@ Same with 1 but without references.
 
 3. Cat20180529_ebpars
 
-Kepler Eclipsing Binary Catalog （http://keplerebs.villanova.edu）
+A small part of the Kepler eclipsing binary stars. The compelete catalog can be found on http://keplerebs.villanova.edu
